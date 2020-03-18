@@ -9,5 +9,3 @@ Here, the Needleman-Wunsch dynamic programming algorithm is modified to identify
 
 {A3}
 
-
-(implementation in java)
