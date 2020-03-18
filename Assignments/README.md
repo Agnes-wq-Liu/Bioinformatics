@@ -7,6 +7,7 @@ When aligning two sequences, it is important to choose an alignment scoring sche
 Here, the Needleman-Wunsch dynamic programming algorithm is modified to identify the optimal alignment considering the multi-gap-free alignment problem. An alignment is multi-gap-free if it does not contain consecutive gaps in the same sequence. 
 (implementation in python)
 
+
 {A3}
 
 (a) Inference based on Vibrio cholerae genome sequence & annotation: average lengths of intergenic regions and genic regions; nucleotide/codon frequencies for intergenic/genic regions.
@@ -17,16 +18,16 @@ Bash script with bedtools.
 (d)Fraction calculations of perfectly matched predictions, matched only at the beginning & only at the end.
 
 Fractions using annotation file as denominator:
-match on both coordinates is: 0.536635284486
-match on start only is: 0.00777732296357
-match on end only is: 0.266475644699
-match on neither coordinates is: 0.189111747851
+match on both coordinates is: 0.536635284486.
+match on start only is: 0.00777732296357.
+match on end only is: 0.266475644699.
+match on neither coordinates is: 0.189111747851.
 
 Fractions using prediction file as denominator:
-match on both coordinates is: 0.592592592593
-match on start only is: 0.00316169828365
-match on end only is: 0.289069557362
-match on neither coordinates is: 0.115176151762
+match on both coordinates is: 0.592592592593.
+match on start only is: 0.00316169828365.
+match on end only is: 0.289069557362.
+match on neither coordinates is: 0.115176151762.
 
 (e)prediction accuracy analysis: 
 
