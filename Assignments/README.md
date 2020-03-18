@@ -17,17 +17,12 @@ Bash script with bedtools.
 (d)Fraction calculations of perfectly matched predictions, matched only at the beginning & only at the end.
 
 Fractions using annotation file as denominator:
-
 match on both coordinates is: 0.536635284486
-
 match on start only is: 0.00777732296357
-
 match on end only is: 0.266475644699
-
 match on neither coordinates is: 0.189111747851
 
 Fractions using prediction file as denominator:
-
 match on both coordinates is: 0.592592592593
 match on start only is: 0.00316169828365
 match on end only is: 0.289069557362
