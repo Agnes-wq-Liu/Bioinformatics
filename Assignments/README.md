@@ -9,3 +9,9 @@ Here, the Needleman-Wunsch dynamic programming algorithm is modified to identify
 
 {A3}
 
+(a) Inference based on Vibrio cholerae genome sequence & annotation: average lengths of intergenic regions and genic regions; nucleotide/codon frequencies for intergenic/genic regions.
+Bash script with bedtools.
+
+(b)&(c) Viterbi Algorithm Implementation & Test results with Vibrio vulnificus sequence.
+
+(d)Fraction calculations of perfectly matched predictions, matched only at the beginning & only at the end.
